@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo.png" width="200" alt="Project Logo">
+</p>
 
 <!--
 **lnagler1/lnagler1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
